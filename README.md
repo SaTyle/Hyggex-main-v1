@@ -1,3 +1,13 @@
+
+
+
+
+
+Preview
+  ![image](https://github.com/SaTyle/HyggeX-Figma-Design/assets/97863462/b14df857-fffc-45ac-b6f9-151a2953d946)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
